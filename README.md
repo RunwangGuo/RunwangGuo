@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=nginx,git,gitlab,github,githubactions,go,docker,containerd,kubernetes,lens,istio,sonarqube,npm,pnpm,yarn,centos,redis,mysql,postgresql,outline,gnubash,homebrew,alibabacloud,apachemaven" />
+    <img src="https://simple-skill-icons.shengruxiahuaya.workers.dev/svg?i=nginx,git,gitlab,github,githubactions,go,docker,containerd,kubernetes,lens,istio,sonarqube,npm,pnpm,yarn,centos,redis,mysql,postgresql,outline,gnubash,homebrew,alibabacloud,apachemaven" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=selenium,pytest,testrail,python,mongodb,wikidotjs,portainer,rabbitmq,vmware" />
+    <img src="https://simple-skill-icons.shengruxiahuaya.workers.dev/svg?i=selenium,pytest,testrail,python,mongodb,wikidotjs,portainer,rabbitmq,vmware" />
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=react,tsnode,swift" />
+    <img src="https://simple-skill-icons.shengruxiahuaya.workers.dev/svg?i=react,tsnode,swift" />
   </a>
 </p>
 
