@@ -2,7 +2,7 @@
 
 ![header](IMAGE/header.png)
 
-# 🏂About Me
+# 🏂 About Me
 
 - 🌱 I am a person who loves new things. The unknown future and challenges often excite me, hahahaha
 - 🌈 I have a little life experience to share with you. When you encounter problems, persistence and courage can make a big difference. Also, life is short, so do more things you want to do while you are young. Hahahaha I hope you don't think I'm nagging
@@ -41,3 +41,4 @@
 
 
 
+<p align="center">   <img src="IMAGE/rhcsa.jpeg" alt="Image 1" width="200">   <img src="IMAGE/rhce.jpeg" alt="Image 2" width="200">   <img src="IMAGE/hcip-rs.jpeg" alt="Image 3" width="200"> </p>
