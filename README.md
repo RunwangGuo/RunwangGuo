@@ -33,12 +33,4 @@
 
 ## 🏆 Some of my achievements（I like to collect some certificates, just like leveling up and killing monsters in a game.😜）
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 10px;">
-  <img src="IMAGE/rhcsa.jpeg" alt="Image 1" style="max-width: 30%; height: auto;">
-  <img src="IMAGE/rhce.jpeg" alt="Image 2" style="max-width: 30%; height: auto;">
-  <img src="IMAGE/hcip-rs.jpeg" alt="Image 3" style="max-width: 30%; height: auto;">
-</div>
-
-
-
-<p align="center">   <img src="IMAGE/rhcsa.jpeg" alt="Image 1" width="200">   <img src="IMAGE/rhce.jpeg" alt="Image 2" width="200">   <img src="IMAGE/hcip-rs.jpeg" alt="Image 3" width="200"> </p>
+<p align="center">   <img src="IMAGE/rhcsa.jpeg" alt="rhcsa.jpeg" width="200">   <img src="IMAGE/rhce.jpeg" alt="rhce.jpeg" width="200">   <img src="IMAGE/hcip-rs.jpeg" alt="hcip-rs.jpeg" width="200"> </p>
