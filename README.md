@@ -30,6 +30,9 @@
     <img src="https://simple-skill-icons.shengruxiahuaya.workers.dev/svg?i=react,tsnode,swift" />
   </a>
 </p>
+🗒️ 下面是一些阶段性质的技术总结文章
+
+- 日志相关  https://wiki.198912.xyz/log/%E6%97%A5%E5%BF%97.html
 
 ## 🏆 Some of my achievements（I like to collect some certificates, just like leveling up and killing monsters in a game.😜）
 
@@ -57,5 +60,4 @@
   <img src="IMAGE/SQL基础开发与应用.jpg" alt="SQL基础开发与应用.jpg" width="200">
 </p>
 
-  
 
