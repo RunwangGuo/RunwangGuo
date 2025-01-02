@@ -2,10 +2,14 @@
 
 ![header](IMAGE/header.png)
 
+
+
 # 🏂 About Me
 
 - 🌱 I am a person who loves new things. The unknown future and challenges often excite me, hahahaha
 - 🌈 I have a little life experience to share with you. When you encounter problems, persistence and courage can make a big difference. Also, life is short, so do more things you want to do while you are young. Hahahaha I hope you don't think I'm nagging
+
+
 
 ## 📚 Some things I use regularly now(我现在经常使用的一些东西)
 
@@ -15,6 +19,7 @@
   </a>
 </p>
 
+
 ## 🔋 I have had some experience or used something in the past(我过去有过一些经验或使用过一些东西)
 
 <p align="center">
@@ -23,6 +28,7 @@
   </a>
 </p>
 
+
 ## 🔭 What I am interested in planning to do in the future(我有兴趣在未来做什么)
 
 <p align="center">
@@ -30,9 +36,13 @@
     <img src="https://simple-skill-icons.shengruxiahuaya.workers.dev/svg?i=react,tsnode,swift" />
   </a>
 </p>
+
+
 ## 🗒️ The following are some technical summary articles of stage nature(下面是一些阶段性质的技术总结文章)
 
 - Log related 日志相关  https://wiki.198912.xyz/log/%E6%97%A5%E5%BF%97.html
+
+
 
 ## 🏆 Some of my achievements（I like to collect some certificates, just like leveling up and killing monsters in a game.😜）
 
