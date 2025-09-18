@@ -2,8 +2,8 @@
 
 # 🏂 关于我
 
-- 🌱 I am a person who loves new things. The unknown future and challenges often excite me, hahahaha
-- 🌈 I have a little life experience to share with you. When you encounter problems, persistence and courage can make a big difference. Also, life is short, so do more things you want to do while you are young. Hahahaha I hope you don't think I'm nagging
+- 🌱 过去的我主要涉及虚拟化、自动化、安全相关的工作。
+- 🌈 最新的我在研究AI与自媒体。
 
 
 ## 🏆 证书
