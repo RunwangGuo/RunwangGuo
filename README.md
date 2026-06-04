@@ -1,21 +1,18 @@
-![毛笔字格言](IMAGE//quote.svg)
+## 🏂 关于我
 
-# 🏂 关于我
-
-- 🌱 过去的我主要涉及虚拟化、自动化、安全相关的工作。
-- 🌈 近期的我在研究AI、自媒体。
-
+- 🌱 过去的我主要涉及虚拟化、公有云、自动化和安全相关的工作。
+- 🌈 近期的我在研究 AI 相关的内容。
 
 ## 🏆 证书
 
-<p align="center">   
-  <img src="IMAGE/ica.png" alt="ica.jpeg" width="200">  
-  <img src="IMAGE/cka.jpg" alt="cka.jpg" width="200"> 
-  <img src="IMAGE/rhce.jpeg" alt="rhce.jpeg" width="200">  
-	<img src="IMAGE/rhcsa.jpeg" alt="rhcsa.jpeg" width="200">   
-  <img src="IMAGE/hcip-rs.jpeg" alt="hcip-rs.jpeg" width="200"> 
-  <img src="IMAGE/ocp.jpg" alt="ocp.jpg" width="200"> 
-  <img src="IMAGE/aca.png" alt="aca.jpeg" width="200"> 
+<p align="center">
+  <img src="IMAGE/cka.jpg" alt="Kubernetes CKA" width="200">
+  <img src="IMAGE/rhce.jpeg" alt="RHCE" width="200">
+  <img src="IMAGE/hcip-rs.jpeg" alt="HCIP" width="200">
+  <img src="IMAGE/aca.png" alt="ACA 云原生" width="200">
+  <img src="IMAGE/ica.png" alt="Istio ICA" width="200">
+  <img src="IMAGE/rhcsa.jpeg" alt="RHCSA" width="200">
+  <img src="IMAGE/ocp.jpg" alt="OCP" width="200">
   <img src="IMAGE/存储的降本增效及运维.jpg" alt="存储的降本增效及运维.jpg" width="200">
   <img src="IMAGE/存储应用与数据管理.jpg" alt="存储应用与数据管理.jpg" width="200">
   <img src="IMAGE/服务器迁移上云.jpg" alt="服务器迁移上云.jpg" width="200">
@@ -34,6 +31,3 @@
   <img src="IMAGE/Serverless 应用快速体验.jpg" alt="Serverless 应用快速体验.jpg" width="200">
   <img src="IMAGE/SQL基础开发与应用.jpg" alt="SQL基础开发与应用.jpg" width="200">
 </p>
-
-
-
